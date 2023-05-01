@@ -10,7 +10,7 @@ const fs = require('fs')
 // console.log(data);
 // fs.renameSync('test/he.txt','test/my_score.txt');
 // fs.rmdirSync('test');
-
+ 
 // Asynchronus
 
 // fs.mkdir('test', (err) => {
